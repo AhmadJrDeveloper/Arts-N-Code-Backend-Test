@@ -1,4 +1,4 @@
-# Backend - MERN Stack Project
+# Backend - PERN Stack Project
 
 ## Overview
 
